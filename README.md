@@ -44,12 +44,21 @@
     
     
     
+    
+    
+    
      ![](https://github.com/hiral271/Track-employee/blob/main/video-gif/Untitled_%20Mar%2025%2C%202021%2010_06%20PM%20(1).gif)
      
      
      
      
+     
+     
+     
      ![](https://github.com/hiral271/Track-employee/blob/main/video-gif/Untitled_%20Mar%2025%2C%202021%2010_10%20PM.gif)
+      
+      
+      
       
       
       
