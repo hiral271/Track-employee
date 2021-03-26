@@ -9,7 +9,9 @@
 
 *   mysql
 
-             Relational database management system based on SQL – Structured Query Language, used in this applicationt to warehouse and query employee and company data.
+             Relational database management system based on SQL – Structured Query Language,
+             used in this applicationt to warehouse 
+             and query employee and company data.
 
        https://www.npmjs.com/package/mysql#install
 
@@ -30,6 +32,24 @@
      
 *  util-promisify
 
-             promisify() method defines in utilities module of Node. js standard library. It is basically used to convert a method that returns responses using a callback function to return responses in a promise object.
+             promisify() method defines in utilities module of Node.
+             js standard library. It is basically used to convert a method that 
+             returns responses using a callback function to return responses in a promise object.
 
     https://www.npmjs.com/package/util.promisify
+    
+    
+     ![]()
+    
+    
+     ![]()
+     
+     
+     ![]()
+      
+      
+     ![]()
+       
+       
+     ![]()
+    
