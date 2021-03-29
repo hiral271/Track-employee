@@ -70,8 +70,8 @@ const employeeSearch = () => {
             message: 'What information  would you like to view ?',
             choices: [
                 ' Employee Details',
-                'Employee by  Departments',
-                '  Managers',
+                ' Departments',
+                '  Employee by Manager',
                 'Roles'
 
 
@@ -93,23 +93,23 @@ const employeeSearch = () => {
 
                     break;
 
-                case 'Employee by  Department':
+                case ' Departments':
                 // let queryD = "SELECT * FROM employeedb.department "
                    
-               let query =  "SELECT * FROM department"
-                connection.query(query , (err, res) => {
+            //    let query =  "SELECT * FROM department"
+                connection.query( 'SELECT * FROM department', (err, res) => {
                         if (err) throw err;
                         console.table(res)
-                        console.log(res)
+                       
                         questions()
                     })
 
                     break;
 
                 case 'Employee by Manager':
-                    let queryM = "SELECT * FROM employee WHERE manager_id IS NOT NULL"
+                    // let queryM = "SELECT * FROM Manager"
                     //SELECT * FROM employee WHERE manager_id IS NOT NULL
-                    connection.query(queryM, (err, res) => {
+                    connection.query('SELECT * FROM Manager ', (err, res) => {
                         if (err) throw err;
                         console.table(res)
                         console.log(res)
