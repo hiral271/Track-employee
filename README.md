@@ -74,20 +74,20 @@
        
        
     
-      ![](https://github.com/hiral271/Track-employee/blob/main/video-gif/re_%20Mar%2025%2C%202021%2010_27%20PM.gif)
+      ![](https://github.com/hiral271/Track-employee/blob/main/video-gif/Untitled_%20Mar%2029%2C%202021%205_44%20PM.gif)
       
       
       
       
       
-        ![]()
+        ![](https://github.com/hiral271/Track-employee/blob/main/video-gif/Untitled_%20Mar%2029%2C%202021%205_48%20PM.gif)
         
         
         
         
         
         
-          ![]()
+          ![](https://github.com/hiral271/Track-employee/blob/main/video-gif/Untitled_%20Mar%2029%2C%202021%206_01%20PM%20(1).gif)
           
           
           
@@ -96,4 +96,4 @@
           
           
           
-            ![]()
+           
