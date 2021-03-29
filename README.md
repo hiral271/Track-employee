@@ -74,4 +74,26 @@
        
        
     
-    
+      ![](https://github.com/hiral271/Track-employee/blob/main/video-gif/re_%20Mar%2025%2C%202021%2010_27%20PM.gif)
+      
+      
+      
+      
+      
+        ![]()
+        
+        
+        
+        
+        
+        
+          ![]()
+          
+          
+          
+          
+          
+          
+          
+          
+            ![]()
